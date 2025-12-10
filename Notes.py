@@ -1,3 +1,7 @@
+'''
+The file contains the frequencies of musical notes from octave 0 to octave 9.
+'''
+
 #Octave 0
 DO0		=	32.7
 REb0	=	34.65
